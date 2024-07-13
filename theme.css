@@ -118,7 +118,7 @@
 
 	/*----------  WIN11  ----------*/
 :root{
-	--DarkBG: url(https://cdn.10086.click/show/2024-06-19/38c107fa-a171-45f9-a48f-83aee472f34d.png); /* Link to background image / Default= url(https://feorev.github.io/Themes/Discord/assets/Wallpapers/dark.avif) ( url(link) ) */
+	--DarkBG: url(https://files.catbox.moe/5vhd2g.png); /* Link to background image / Default= url(https://feorev.github.io/Themes/Discord/assets/Wallpapers/dark.avif) ( url(link) ) */
 	--LightBG: url(https://feorev.github.io/Themes/Discord/assets/Wallpapers/light.avif); /* Link to background image / Default= url(https://feorev.github.io/Themes/Discord/assets/Wallpapers/light.avif) ( url(link) ) */
 	--OpacityBG: 40%; /* Background image transparency / Default=100% (0%-100%) */
 	--BlurBG: 0px; /* Background image blur / Default=0px (any value in px) */
